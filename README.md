@@ -13,4 +13,4 @@ A website built with Bootstrap , HTML5, CSS3, Javascript, Jquery
 - [JQuery](https://jquery.com/)
 
 #### Contributed By:
-- [Amish Bharti](https://github.com/amish1999)
+- [Amish Bharti ❤️](https://github.com/amish1999)
